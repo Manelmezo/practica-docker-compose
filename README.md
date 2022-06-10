@@ -1,5 +1,5 @@
 # Practica-Docker-Compose
-#José Noel Coratavarria, Manel Esteve, Sergio Otero
+# José Noel Coratavarria, Manel Esteve, Sergio Otero
 Para realizar este ejercicio nos hemos visto obligados a descargar un proyecto ya realizado y hacerlo con ese. Aún así ha sido bastante complicado llegar a completar el trabajo.
 
 Para realizar la siguiente actividad se necesita el programa de Docker Desktop (viene instalado con docker y docker-compose, ambos los necesitamos) y un proyecto completo.
